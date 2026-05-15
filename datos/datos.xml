@@ -1,0 +1,301 @@
+<vehiculos>
+  <coches>
+    <coche>
+      <marca>Tesla</marca>
+      <modelo>Model S</modelo>
+      <año>2022</año>
+      <motor>Eléctrico</motor>
+    </coche>
+    <coche>
+      <marca>Ford</marca>
+      <modelo>Mustang</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>BMW</marca>
+      <modelo>i8</modelo>
+      <año>2020</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Audi</marca>
+      <modelo>R8</modelo>
+      <año>2019</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Chevrolet</marca>
+      <modelo>Camaro</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Porsche</marca>
+      <modelo>Taycan</modelo>
+      <año>2022</año>
+      <motor>Eléctrico</motor>
+    </coche>
+    <coche>
+      <marca>Mercedes-Benz</marca>
+      <modelo>AMG GT</modelo>
+      <año>2020</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Nissan</marca>
+      <modelo>GT-R</modelo>
+      <año>2018</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Lamborghini</marca>
+      <modelo>Huracán</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Ferrari</marca>
+      <modelo>488 Pista</modelo>
+      <año>2019</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>McLaren</marca>
+      <modelo>720S</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Bugatti</marca>
+      <modelo>Chiron</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Aston Martin</marca>
+      <modelo>DB11</modelo>
+      <año>2020</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Koenigsegg</marca>
+      <modelo>Jesko</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Pagani</marca>
+      <modelo>Huayra</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Rolls-Royce</marca>
+      <modelo>Phantom</modelo>
+      <año>2020</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Bentley</marca>
+      <modelo>Continental GT</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Jaguar</marca>
+      <modelo>F-Type R</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Lexus</marca>
+      <modelo>LC 500</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Maserati</marca>
+      <modelo>MC20</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Alfa Romeo</marca>
+      <modelo>4C Spider</modelo>
+      <año>2020</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Honda</marca>
+      <modelo>NSX</modelo>
+      <año>2021</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Chevrolet</marca>
+      <modelo>Corvette C8</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Porsche</marca>
+      <modelo>918 Spyder</modelo>
+      <año>2015</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Aston Martin</marca>
+      <modelo>Valkyrie</modelo>
+      <año>2022</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Lotus</marca>
+      <modelo>Evija</modelo>
+      <año>2022</año>
+      <motor>Eléctrico</motor>
+    </coche>
+    <coche>
+      <marca>Rimac</marca>
+      <modelo>Nevera</modelo>
+      <año>2022</año>
+      <motor>Eléctrico</motor>
+    </coche>
+    <coche>
+      <marca>Ferrari</marca>
+      <modelo>Roma</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>McLaren</marca>
+      <modelo>Artura</modelo>
+      <año>2022</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Pagani</marca>
+      <modelo>Huayra Roadster</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Koenigsegg</marca>
+      <modelo>Gemera</modelo>
+      <año>2022</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Lamborghini</marca>
+      <modelo>Sián FKP 37</modelo>
+      <año>2020</año>
+      <motor>Híbrido</motor>
+    </coche>
+    <coche>
+      <marca>Ferrari</marca>
+      <modelo>F8 Tributo</modelo>
+      <año>2020</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Aston Martin</marca>
+      <modelo>DBS Superleggera</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+    <coche>
+      <marca>Bentley</marca>
+      <modelo>Bacalar</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </coche>
+  </coches>
+
+  <motos>
+    <moto>
+      <marca>Ducati</marca>
+      <modelo>Panigale V4</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Kawasaki</marca>
+      <modelo>Ninja H2</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>BMW</marca>
+      <modelo>S1000RR</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Yamaha</marca>
+      <modelo>YZF-R1</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Honda</marca>
+      <modelo>CBR1000RR-R Fireblade</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Suzuki</marca>
+      <modelo>GSX-R1000</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Aprilia</marca>
+      <modelo>RSV4</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>MV Agusta</marca>
+      <modelo>F4 RC</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Triumph</marca>
+      <modelo>Speed Triple 1200 RR</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>KTM</marca>
+      <modelo>1290 Super Duke R</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Bimota</marca>
+      <modelo>Tesi H2</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Harley-Davidson</marca>
+      <modelo>FXDR 114</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Ducati</marca>
+      <modelo>Streetfighter V4</modelo>
+      <año>2022</año>
+      <motor>Gasolina</motor>
+    </moto>
+    <moto>
+      <marca>Yamaha</marca>
+      <modelo>MT-10</modelo>
+      <año>2021</año>
+      <motor>Gasolina</motor>
+    </moto>
+  </motos>
+</vehiculos>

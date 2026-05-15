@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #1b1b1b, #111);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff0000;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px #000;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+main {
+    padding: 20px;
+}
+
+.garage {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+.garage li {
+    background: #222;
+    border: 2px solid #ff0000;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.garage li:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 20px #ff0000;
+}
+
+li h2 {
+    margin: 0 0 10px 0;
+    font-size: 1.2rem;
+}
+
+li p {
+    margin: 5px 0;
+}
